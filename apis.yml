@@ -9,8 +9,7 @@ type: Index
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
+tags: []
 created: '2026-01-05'
 modified: '2026-03-16'
 url: >-
@@ -26,8 +25,7 @@ apis:
       message queues and beyond.Use TaxiQL to fetch data - without resolvers or glue
       code - and adapts as things change.
     humanURL: ' https://taxilang.org/'
-    tags:
-      - API
+    tags: []
     properties:
       - type: Documentation
         url: ' https://taxilang.org/'
